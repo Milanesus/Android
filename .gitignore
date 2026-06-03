@@ -18,3 +18,7 @@
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos de Logcat
+**/logcat*.txt
+*.log
