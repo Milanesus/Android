@@ -1,0 +1,20 @@
+# Archivos locales de Android
+**/local.properties
+
+# Carpetas generadas
+**/.gradle/
+**/build/
+**/.kotlin/
+**/captures/
+
+# Archivos de Android Studio
+**/.idea/
+*.iml
+
+# Llaves y archivos sensibles
+*.jks
+*.keystore
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

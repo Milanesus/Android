@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres_pais">
+        <item>Mexico</item>
+        <item>United States</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>Colombia</item>
+        <item>Spain</item>
+        <item>Argentina</item>
+        <item>Venezuela</item>
+        <item>Peru</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="claves_pais">
+        <item>+52</item>
+        <item>+1</item>
+        <item>+55</item>
+        <item>+91</item>
+        <item>+57</item>
+        <item>+34</item>
+        <item>+54</item>
+        <item>+58</item>
+        <item>+51</item>
+        <item>+84</item>
+    </string-array>
+</resources>

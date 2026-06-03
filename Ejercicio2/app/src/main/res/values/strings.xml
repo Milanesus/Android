@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mundial 2026</string>
+    <string name="title_teams">Equipos del Mundial 2026</string>
+    <string name="error_loading_teams">No se pudieron cargar los equipos</string>
+    <string name="error_no_teams">No hay equipos disponibles por ahora</string>
+    <string name="error_no_internet">No hay conexión a internet</string>
+    <string name="title_players">Jugadores - %1$s</string>
+    <string name="error_loading_players">No se pudieron cargar los jugadores</string>
+    <string name="error_no_players">Sin jugadores cargados en este equipo</string>
+    <string name="error_technical">Fallo Técnico: %1$s</string>
+    <string name="retry">Reintentar</string>
+    <string name="back">Atrás</string>
+    <string name="player_photo_desc">Foto de %1$s</string>
+    <string name="team_logo_desc">Logo de %1$s</string>
+    <string name="player_age">Edad: %1$d</string>
+    <string name="position_number">%1$s - #%2$s</string>
+    <string name="founded_at">Fundación de la Federación: %1$d</string>
+    <string name="fifa_code">FIFA: %1$s</string>
+    <string name="stadium">Estadio: %1$s (%2$s)</string>
+    <string name="not_available">N/A</string>
+
+    <string name="pos_goalkeeper">Portero</string>
+    <string name="pos_defender">Defensa</string>
+    <string name="pos_midfielder">Mediocampista</string>
+    <string name="pos_attacker">Delantero</string>
+    <string name="search_placeholder">Buscar país…</string>
+    <string name="no_results">No se encontraron resultados</string>
+</resources>

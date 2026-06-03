@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Form</string>
+
+    <string name="titulo_crear_perfil">Create Profile</string>
+    <string name="aviso_campos_obligatorios">Fields with (*) are required</string>
+    <string name="seccion_info_personal">Personal Information</string>
+    <string name="etiqueta_nombre">First Name(s) *</string>
+    <string name="etiqueta_apellido">Last Name *</string>
+    <string name="etiqueta_fecha_nacimiento">Date of Birth *</string>
+    <string name="etiqueta_genero">Gender *</string>
+    <string name="genero_masculino">Male</string>
+    <string name="genero_femenino">Female</string>
+    <string name="genero_otro">Other</string>
+
+    <string name="seccion_contacto">Contact</string>
+    <string name="etiqueta_telefono">Phone Number *</string>
+    <string name="etiqueta_correo">Email Address *</string>
+    <string name="pista_correo">example@email.com</string>
+
+    <string name="seccion_intereses">Interests</string>
+    <string name="interes_musica">Music</string>
+    <string name="interes_viajes">Travel</string>
+    <string name="interes_deportes">Sports</string>
+    <string name="interes_tecnologia">Technology</string>
+    <string name="interes_arte">Art</string>
+    <string name="interes_cine">Movies</string>
+    <string name="interes_lectura">Reading</string>
+    <string name="interes_cocina">Cooking</string>
+    <string name="interes_fotografia">Photography</string>
+    <string name="interes_videojuegos">Gaming</string>
+
+    <string name="seccion_biografia">Biography</string>
+    <string name="pista_biografia">Tell us about yourself...</string>
+    <string name="boton_guardar_perfil">Save Profile</string>
+    <string name="desc_cambiar_foto">Button to change profile picture</string>
+
+    <string name="error_campo_obligatorio">This field is required</string>
+    <string name="error_edad_minima">You must be at least 13 years old</string>
+    <string name="error_correo_invalido">Invalid email format</string>
+    <string name="error_telefono_invalido">The phone must have %1$d digits for %2$s</string>
+    <string name="error_genero_no_seleccionado">Please select your gender</string>
+
+    <string name="titulo_reporte">Profile Summary</string>
+    <string name="reporte_nombre">Full Name:</string>
+    <string name="reporte_fecha_nacimiento">Date of Birth:</string>
+    <string name="reporte_genero">Gender:</string>
+    <string name="reporte_telefono">Phone Number:</string>
+    <string name="reporte_correo">Email Address:</string>
+    <string name="reporte_intereses">Interests:</string>
+    <string name="reporte_biografia">Biography:</string>
+    <string name="sin_intereses">No interests selected</string>
+    <string name="biografia_vacia">No biography provided</string>
+    <string name="error_fecha_obligatoria">Date is required</string>
+    <string name="error_genero_obligatorio">Select a gender</string>
+    <string name="formato_telefono">%1$s %2$s</string>
+    <string name="formato_nombre_completo">%1$s %2$s</string>
+</resources>

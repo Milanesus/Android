@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">World Cup 2026</string>
+    <string name="title_teams">World Cup 2026 National Teams</string>
+    <string name="error_loading_teams">Could not load national teams</string>
+    <string name="error_no_teams">No national teams available for now</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="title_players">Players - %1$s National Team</string>
+    <string name="error_loading_players">Could not load players</string>
+    <string name="error_no_players">No players loaded for this team</string>
+    <string name="error_technical">Technical failure: %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="player_photo_desc">%1$s photo</string>
+    <string name="team_logo_desc">%1$s logo</string>
+    <string name="player_age">Age: %1$d</string>
+    <string name="position_number">%1$s - #%2$s</string>
+    <string name="founded_at">Federation Foundation: %1$d</string>
+    <string name="fifa_code">FIFA: %1$s</string>
+    <string name="stadium">Stadium: %1$s (%2$s)</string>
+    <string name="not_available">N/A</string>
+
+    <!-- Traduccíon de posiciones (opcional para lógica futura) -->
+    <string name="pos_goalkeeper">Goalkeeper</string>
+    <string name="pos_defender">Defender</string>
+    <string name="pos_midfielder">Midfielder</string>
+    <string name="pos_attacker">Attacker</string>
+    <string name="search_placeholder">Search national team…</string>
+    <string name="no_results">No results found</string>
+</resources>

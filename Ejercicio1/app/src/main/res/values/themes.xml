@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Formulario" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores de error personalizados -->
+        <item name="colorError">@color/error_rojo</item>
+        <item name="colorOnError">@color/white</item>
+        <!-- Aplicación global de la fuente Roboto -->
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="Theme.Formulario" parent="Base.Theme.Formulario" />
+
+    <!-- Estilo para hacer las imágenes circulares con compatibilidad mejorada -->
+    <style name="CircleImage" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
