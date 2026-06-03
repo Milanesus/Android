@@ -19,6 +19,9 @@
 .DS_Store
 Thumbs.db
 
+# Archivos ZIP
+*.zip
+
 # Archivos de Logcat
 **/logcat*.txt
 *.log
